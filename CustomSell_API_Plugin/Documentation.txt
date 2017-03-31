@@ -1,0 +1,3 @@
+CustomSellAPI Extension:
+This extension is based on the API in which when the user's install this extension to our store the information of products, orders,customers,categories, abandoned checkouts and discount coupon's were pushed to the client's API.
+In this an API key is provided by the client to the user, after installation user want to submit the key and after then the process is start of syncing the data to the API and this is based on the store's, each store had there own data and user need to submit API key for each store to push the all data to the API.

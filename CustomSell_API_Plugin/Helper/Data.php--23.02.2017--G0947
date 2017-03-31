@@ -1,0 +1,15 @@
+<?php
+
+namespace Customsell\Sync\Helper;
+
+use \Customsell\Sync\ApiInterface\CustomsellApi;
+
+class Data extends \Magento\Framework\App\Helper\AbstractHelper{
+
+    public function ping(){
+    	    	
+    	$customsellApi = new CustomsellApi;
+    	$customsellApi->exec();
+
+    }    
+}

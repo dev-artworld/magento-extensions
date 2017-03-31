@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Cron:etc/crontab.xsd">
+	<group id="default">
+		<job instance="Customsell\Sync\Controller\Adminhtml\CustomsellBackend\Categories" method="execute" name="customsell_sync_categoryCron">
+			<schedule>*/5 * * * *</schedule>
+		</job>
+		<job instance="Customsell\Sync\Controller\Adminhtml\CustomsellBackend\Product" method="execute" name="customsell_sync_productCron">
+			<schedule>*/5 * * * *</schedule>
+		</job>
+		<job instance="Customsell\Sync\Controller\Adminhtml\CustomsellBackend\Customer" method="execute" name="customsell_sync_customerCron">
+			<schedule>*/5 * * * *</schedule>
+		</job>
+		<job instance="Customsell\Sync\Controller\Adminhtml\CustomsellBackend\Orders" method="execute" name="customsell_sync_ordersCron">
+			<schedule>*/5 * * * *</schedule>
+		</job>
+		<job instance="Customsell\Sync\Controller\Adminhtml\CustomsellBackend\Promo" method="execute" name="customsell_sync_promoCron">
+			<schedule>*/5 * * * *</schedule>
+		</job>
+		<job instance="Customsell\Sync\Controller\Adminhtml\CustomsellBackend\Newsletter" method="execute" name="customsell_sync_newsletterCron">
+			<schedule>*/5 * * * *</schedule>
+		</job>
+		<job instance="Customsell\Sync\Controller\Adminhtml\CustomsellBackend\Index" method="execute" name="customsell_sync_indexCron">
+			<schedule>*/5 * * * *</schedule>
+		</job>
+		<job instance="Customsell\Sync\Controller\Adminhtml\CustomsellBackend\Checkout" method="execute" name="customsell_sync_checkoutCron">
+			<schedule>*/5 * * * *</schedule>
+		</job>
+		<job instance="Customsell\Sync\Cron\CustomsellCron" method="execute" name="customsell_sync_customsellcron">
+			<schedule>*/5 * * * *</schedule>
+		</job>
+	</group>
+</config>

@@ -1,0 +1,52 @@
+<?php
+
+
+namespace Customsell\Sync\ApiInterface;
+
+class CustomsellApi
+{
+	public function saveProduct($productData)
+	{
+		file_put_contents(dirname(__FILE__)."/productData.log", print_r($productData, true));
+	}
+
+	public function exec($url = '', $parameters = array(), $method = 'post' ){
+				
+        $apiKey     = 'SW6O7BAZJZI87Y3LGPGQ9IQ3ECEQ22AV';
+        $custom_api = array('api_key' => $apiKey );
+
+
+        $url 		= 'https://api.customsellsystems.com/api/validate/';
+			
+		// Sign the request
+        $request_time 	= time(); // Used to sign request
+        $api_signature 	= md5($apiKey . $request_time);
+
+
+		$ch = curl_init();
+        curl_setopt($ch, CURLOPT_URL, $url);		
+		if( $method == 'post') {
+			curl_setopt($ch, CURLOPT_POST, 1);
+			curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($custom_api));      	
+		}        
+        curl_setopt($ch, CURLOPT_HTTPHEADER, array('API_SIGNATURE: ' . $api_signature, 'API_REQUEST_TIME: ' . $request_time));
+        curl_setopt($ch, CURLOPT_TIMEOUT, 30);
+        curl_setopt($ch, CURLOPT_MAXREDIRS, 5);
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+        curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+        $file 		= curl_exec($ch);
+        $httpCode 	= curl_getinfo($ch, CURLINFO_HTTP_CODE);
+
+
+        echo "<pre>";
+        print_r( json_decode($file) );
+        echo "</pre>";
+
+        echo "<pre>";
+        print_r($httpCode );
+        echo "</pre>";
+
+		curl_close($ch);		
+		return json_decode($file);
+	}
+}

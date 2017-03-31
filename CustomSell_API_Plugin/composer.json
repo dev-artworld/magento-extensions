@@ -1,0 +1,21 @@
+{
+    "name": "customsell/module-sync",
+    "description": "Extension to Connect Magento2 with Customsell.",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Gurjeet Singh",
+            "email": "gurjeet@retouchingwork.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Customsell\\Sync\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}

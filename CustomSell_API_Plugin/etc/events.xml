@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Event/etc/events.xsd">
+	<event name="controller_action_catalog_product_save_entity_after">
+		<observer instance="Customsell\Sync\Observer\Controller\Product\ProductSaveEntityAfter" name="product-save-entity-after"/>
+	</event>
+	<event name="catalog_product_edit_action">
+		<observer instance="Customsell\Sync\Observer\Controller\Product\ProductEdit" name="product-edit"/>
+	</event>
+	<event name="catalog_product_new_action">
+		<observer instance="Customsell\Sync\Observer\Controller\Product\ProductAdd" name="product-add"/>
+	</event>	
+</config>

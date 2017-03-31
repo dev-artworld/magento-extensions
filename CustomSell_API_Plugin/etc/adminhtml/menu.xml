@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2015 Customsell. All rights reserved.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../Backend/etc/menu.xsd">
+    <menu>
+        <add id="Customsell_Sync::customsell_customsellbackendindex" title="Customsell" module="Customsell_Sync"  sortOrder="20" dependsOnModule="Customsell_Sync" action="sync/customsellbackend/index" resource="Customsell_Sync::customsell_customsellbackendindex"/>
+<!--AddMenu-->
+    </menu>
+</config>

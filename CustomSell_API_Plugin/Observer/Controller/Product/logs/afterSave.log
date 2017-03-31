@@ -1,0 +1,3460 @@
+Array
+(
+    [form_key] => dDPFDJwJ4teBrLaq
+    [product] => Array
+        (
+            [name] => Bag
+            [sku] => Bag
+            [price] => 25
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 100
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [weight] => 
+            [category_ids] => Array
+                (
+                    [0] => 11
+                )
+
+            [description] => <p>Testing</p>
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => Bag
+            [meta_keyword] => Bag
+            [meta_description] => Bag <p>Testing</p>
+            [website_ids] => Array
+                (
+                    [0] => 1
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 100
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => iByw5j9p2WtGMbal
+    [product] => Array
+        (
+            [name] => Shirt
+            [sku] => Shirt
+            [price] => 20
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 100
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [description] => <p>Test</p>
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => Shirt
+            [meta_keyword] => Shirt
+            [meta_description] => Shirt <p>Test</p>
+            [website_ids] => Array
+                (
+                    [0] => 1
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 100
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => ZwhwhDVlrDeCLwY8
+    [product] => Array
+        (
+            [name] => Watch
+            [sku] => Watch
+            [price] => 200
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 150
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 18
+                )
+
+            [description] => <p>Testing Prod</p>
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [media_gallery] => Array
+                (
+                    [images] => Array
+                        (
+                            [rp9pq362pw4] => Array
+                                (
+                                    [position] => 1
+                                    [media_type] => 
+                                    [video_provider] => 
+                                    [file] => /i/t/italian-landscape-mountains-nature_1.jpg.tmp
+                                    [value_id] => 
+                                    [label] => 
+                                    [disabled] => 0
+                                    [removed] => 
+                                    [video_url] => 
+                                    [video_title] => 
+                                    [video_description] => 
+                                    [video_metadata] => 
+                                    [role] => 
+                                )
+
+                        )
+
+                )
+
+            [swatch_image] => /i/t/italian-landscape-mountains-nature_1.jpg.tmp
+            [image] => /i/t/italian-landscape-mountains-nature_1.jpg.tmp
+            [small_image] => /i/t/italian-landscape-mountains-nature_1.jpg.tmp
+            [thumbnail] => /i/t/italian-landscape-mountains-nature_1.jpg.tmp
+            [url_key] => 
+            [meta_title] => Watch
+            [meta_keyword] => Watch
+            [meta_description] => Watch <p>Testing Prod</p>
+            [website_ids] => Array
+                (
+                    [0] => 2
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 150
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => ZwhwhDVlrDeCLwY8
+    [product] => Array
+        (
+            [name] => Jewllery
+            [sku] => Jewllery
+            [price] => 150
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 80
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 5
+                )
+
+            [description] => <p>Tetsng</p>
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => Jewllery
+            [meta_keyword] => Jewllery
+            [meta_description] => Jewllery <p>Tetsng</p>
+            [website_ids] => Array
+                (
+                    [0] => 1
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 80
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => s4MWQXl2BRvEcWPw
+    [product] => Array
+        (
+            [name] => USB
+            [sku] => USB
+            [price] => 10
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 20
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 2
+                    [1] => 5
+                )
+
+            [description] => <p>test</p>
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => USB
+            [meta_keyword] => USB
+            [meta_description] => USB <p>test</p>
+            [website_ids] => Array
+                (
+                    [0] => 1
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 20
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => s4MWQXl2BRvEcWPw
+    [product] => Array
+        (
+            [name] => headphone
+            [sku] => headphone
+            [price] => 100
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 30
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 3
+                )
+
+            [description] => <p>test</p>
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => headphone
+            [meta_keyword] => headphone
+            [meta_description] => headphone <p>test</p>
+            [website_ids] => Array
+                (
+                    [0] => 2
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 30
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => s4MWQXl2BRvEcWPw
+    [product] => Array
+        (
+            [name] => Productstore1
+            [sku] => Productstore1
+            [price] => 40
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 40
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 2
+                )
+
+            [description] => <p>er</p>
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => Productstore1
+            [meta_keyword] => Productstore1
+            [meta_description] => Productstore1 <p>er</p>
+            [website_ids] => Array
+                (
+                    [0] => 1
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 40
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => YZ4itkuL0TzA5IBl
+    [product] => Array
+        (
+            [name] => Product2
+            [sku] => Product2
+            [price] => 50
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 50
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 9
+                )
+
+            [description] => <p>Test</p>
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => Product2
+            [meta_keyword] => Product2
+            [meta_description] => Product2 <p>Test</p>
+            [website_ids] => Array
+                (
+                    [0] => 2
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 50
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => YZ4itkuL0TzA5IBl
+    [product] => Array
+        (
+            [name] => Product3
+            [sku] => Product3
+            [price] => 60
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 60
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 20
+                )
+
+            [description] => <p>Test</p>
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => Product3
+            [meta_keyword] => Product3
+            [meta_description] => Product3 <p>Test</p>
+            [website_ids] => Array
+                (
+                    [0] => 1
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 60
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => 60AWFgZzaE8OoWcO
+    [product] => Array
+        (
+            [name] => Wallet
+            [sku] => Wallet
+            [price] => 20
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 70
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 11
+                )
+
+            [description] => <p>Test</p>
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => Wallet
+            [meta_keyword] => Wallet
+            [meta_description] => Wallet <p>Test</p>
+            [website_ids] => Array
+                (
+                    [0] => 2
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 70
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => 5vkByIkftnsbBXKu
+    [product] => Array
+        (
+            [name] => Notebook
+            [sku] => Notebook
+            [price] => 200
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 20
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 2
+                )
+
+            [description] => <p>test</p>
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => Notebook
+            [meta_keyword] => Notebook
+            [meta_description] => Notebook <p>test</p>
+            [website_ids] => Array
+                (
+                    [0] => 2
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 20
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => t1zxxB05udOAnYK6
+    [product] => Array
+        (
+            [name] => Productmarch7
+            [sku] => Productmarch7
+            [price] => 20
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 60
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 9
+                )
+
+            [description] => <p>Test</p>
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => Productmarch7
+            [meta_keyword] => Productmarch7
+            [meta_description] => Productmarch7 <p>Test</p>
+            [website_ids] => Array
+                (
+                    [0] => 1
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 60
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => 1be8srdDnKmhmEuP
+    [product] => Array
+        (
+            [name] => NewProduct
+            [sku] => NewProduct
+            [price] => 20
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 75
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 9
+                )
+
+            [description] => test
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => NewProduct
+            [meta_keyword] => NewProduct
+            [meta_description] => NewProduct test
+            [website_ids] => Array
+                (
+                    [0] => 1
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 75
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => 1be8srdDnKmhmEuP
+    [product] => Array
+        (
+            [name] => Newprodcut1
+            [sku] => Newprodcut1
+            [price] => 30
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 85
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 11
+                )
+
+            [description] => 
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => Newprodcut1
+            [meta_keyword] => Newprodcut1
+            [meta_description] => Newprodcut1 
+            [website_ids] => Array
+                (
+                    [0] => 1
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 85
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => 1be8srdDnKmhmEuP
+    [product] => Array
+        (
+            [name] => Newprodcut1
+            [sku] => Newprodcut1
+            [price] => 30.00
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 85
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [weight] => 
+            [category_ids] => Array
+                (
+                    [0] => 11
+                )
+
+            [description] => 
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => newprodcut1
+            [meta_title] => Newprodcut1
+            [meta_keyword] => Newprodcut1
+            [meta_description] => Newprodcut1 
+            [website_ids] => Array
+                (
+                    [0] => 1
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 85
+                    [qty] => 85
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [qty_increments] => 0
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => 1be8srdDnKmhmEuP
+    [product] => Array
+        (
+            [name] => Newprodcut2
+            [sku] => Newprodcut2
+            [price] => 40
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 95
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 3
+                )
+
+            [description] => Test
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => Newprodcut2
+            [meta_keyword] => Newprodcut2
+            [meta_description] => Newprodcut2 Test
+            [website_ids] => Array
+                (
+                    [0] => 1
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 95
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => 1be8srdDnKmhmEuP
+    [product] => Array
+        (
+            [name] => Newprodcut3
+            [sku] => Newprodcut3
+            [price] => 50
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 95
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 9
+                )
+
+            [description] => Tets
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => Newprodcut3
+            [meta_keyword] => Newprodcut3
+            [meta_description] => Newprodcut3 Tets
+            [website_ids] => Array
+                (
+                    [0] => 1
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 95
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => 1be8srdDnKmhmEuP
+    [product] => Array
+        (
+            [name] => Newprodcut4
+            [sku] => Newprodcut4
+            [price] => 60
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 65
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 20
+                )
+
+            [description] => test
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => Newprodcut4
+            [meta_keyword] => Newprodcut4
+            [meta_description] => Newprodcut4 test
+            [website_ids] => Array
+                (
+                    [0] => 1
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 65
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => 1be8srdDnKmhmEuP
+    [product] => Array
+        (
+            [name] => Newprodcut5
+            [sku] => Newprodcut5
+            [price] => 55
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 55
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 9
+                )
+
+            [description] => 
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => Newprodcut5
+            [meta_keyword] => Newprodcut5
+            [meta_description] => Newprodcut5 
+            [website_ids] => Array
+                (
+                    [0] => 1
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 55
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => 1be8srdDnKmhmEuP
+    [product] => Array
+        (
+            [name] => Product23
+            [sku] => Product23
+            [price] => 20
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 30
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 3
+                )
+
+            [description] => test
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => Product23
+            [meta_keyword] => Product23
+            [meta_description] => Product23 test
+            [website_ids] => Array
+                (
+                    [0] => 2
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 30
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => 1be8srdDnKmhmEuP
+    [product] => Array
+        (
+            [name] => Product33
+            [sku] => Product33
+            [price] => 50
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 50
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 2
+                )
+
+            [description] => test
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => Product33
+            [meta_keyword] => Product33
+            [meta_description] => Product33 test
+            [website_ids] => Array
+                (
+                    [0] => 2
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 50
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => 1be8srdDnKmhmEuP
+    [product] => Array
+        (
+            [name] => Prdoucytjf
+            [sku] => Prdoucytjf
+            [price] => 200
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 20
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 2
+                )
+
+            [description] => 
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => Prdoucytjf
+            [meta_keyword] => Prdoucytjf
+            [meta_description] => Prdoucytjf 
+            [website_ids] => Array
+                (
+                    [0] => 1
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 20
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => 1be8srdDnKmhmEuP
+    [product] => Array
+        (
+            [name] => Newprodcut111
+            [sku] => Newprodcut111
+            [price] => 20
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 200
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 3
+                )
+
+            [description] => test
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => Newprodcut111
+            [meta_keyword] => Newprodcut111
+            [meta_description] => Newprodcut111 test
+            [website_ids] => Array
+                (
+                    [0] => 1
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 200
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => 1be8srdDnKmhmEuP
+    [product] => Array
+        (
+            [name] => Newprodcut222
+            [sku] => Newprodcut222
+            [price] => 20
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 30
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 11
+                )
+
+            [description] => test
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => Newprodcut222
+            [meta_keyword] => Newprodcut222
+            [meta_description] => Newprodcut222 test
+            [website_ids] => Array
+                (
+                    [0] => 1
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 30
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => 1be8srdDnKmhmEuP
+    [product] => Array
+        (
+            [name] => newcategory333
+            [sku] => newcategory333
+            [price] => 330
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 40
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 11
+                )
+
+            [description] => 
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => newcategory333
+            [meta_keyword] => newcategory333
+            [meta_description] => newcategory333 
+            [website_ids] => Array
+                (
+                    [0] => 1
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 40
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => 1be8srdDnKmhmEuP
+    [product] => Array
+        (
+            [name] => Newprodcut134
+            [sku] => Newprodcut134
+            [price] => 20
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 212
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 11
+                )
+
+            [description] => test
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => Newprodcut134
+            [meta_keyword] => Newprodcut134
+            [meta_description] => Newprodcut134 test
+            [website_ids] => Array
+                (
+                    [0] => 1
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 212
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => 1be8srdDnKmhmEuP
+    [product] => Array
+        (
+            [name] => newcategory33345
+            [sku] => newcategory33345
+            [price] => 321
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 213
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 9
+                )
+
+            [description] => test
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => newcategory33345
+            [meta_keyword] => newcategory33345
+            [meta_description] => newcategory33345 test
+            [website_ids] => Array
+                (
+                    [0] => 1
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 213
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => 1be8srdDnKmhmEuP
+    [product] => Array
+        (
+            [name] => Newprodcut11190
+            [sku] => Newprodcut11190
+            [price] => 124
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 124
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 20
+                )
+
+            [description] => test
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => Newprodcut11190
+            [meta_keyword] => Newprodcut11190
+            [meta_description] => Newprodcut11190 test
+            [website_ids] => Array
+                (
+                    [0] => 1
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 124
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => 1be8srdDnKmhmEuP
+    [product] => Array
+        (
+            [name] => producttest31
+            [sku] => producttest31
+            [price] => 200
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 20
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 11
+                )
+
+            [description] => test
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => producttest31
+            [meta_keyword] => producttest31
+            [meta_description] => producttest31 test
+            [website_ids] => Array
+                (
+                    [0] => 1
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 20
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => 1be8srdDnKmhmEuP
+    [product] => Array
+        (
+            [name] => producttest32
+            [sku] => producttest32
+            [price] => 200
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 30
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 11
+                )
+
+            [description] => Test
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => producttest32
+            [meta_keyword] => producttest32
+            [meta_description] => producttest32 Test
+            [website_ids] => Array
+                (
+                    [0] => 1
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 30
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => 1be8srdDnKmhmEuP
+    [product] => Array
+        (
+            [name] => Product35
+            [sku] => Product35
+            [price] => 200
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 20
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 2
+                )
+
+            [description] => test
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => Product35
+            [meta_keyword] => Product35
+            [meta_description] => Product35 test
+            [website_ids] => Array
+                (
+                    [0] => 1
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 20
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => 1be8srdDnKmhmEuP
+    [product] => Array
+        (
+            [name] => Product367
+            [sku] => Product367
+            [price] => 200
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 20
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 2
+                )
+
+            [description] => test
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => Product367
+            [meta_keyword] => Product367
+            [meta_description] => Product367 test
+            [website_ids] => Array
+                (
+                    [0] => 1
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 20
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => 1be8srdDnKmhmEuP
+    [product] => Array
+        (
+            [name] => Product358
+            [sku] => Product358
+            [price] => 200
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 20
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 2
+                )
+
+            [description] => tet
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => Product358
+            [meta_keyword] => Product358
+            [meta_description] => Product358 tet
+            [website_ids] => Array
+                (
+                    [0] => 1
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 20
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => 1be8srdDnKmhmEuP
+    [product] => Array
+        (
+            [name] => test345
+            [sku] => test345
+            [price] => 200
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 300
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 2
+                )
+
+            [description] => tets
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => test345
+            [meta_keyword] => test345
+            [meta_description] => test345 tets
+            [website_ids] => Array
+                (
+                    [0] => 1
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 300
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => 1be8srdDnKmhmEuP
+    [product] => Array
+        (
+            [name] => test56
+            [sku] => test56
+            [price] => 254
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 23
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 2
+                )
+
+            [description] => test
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => test56
+            [meta_keyword] => test56
+            [meta_description] => test56 test
+            [website_ids] => Array
+                (
+                    [0] => 1
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 23
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => 1be8srdDnKmhmEuP
+    [product] => Array
+        (
+            [name] => Testproduct98
+            [sku] => Testproduct98
+            [price] => 200
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 25
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 3
+                )
+
+            [description] => test
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => Testproduct98
+            [meta_keyword] => Testproduct98
+            [meta_description] => Testproduct98 test
+            [website_ids] => Array
+                (
+                    [0] => 1
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 25
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => 1be8srdDnKmhmEuP
+    [product] => Array
+        (
+            [name] => Testprodcut45
+            [sku] => Testprodcut45
+            [price] => 254
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 26
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 11
+                )
+
+            [description] => test
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => Testprodcut45
+            [meta_keyword] => Testprodcut45
+            [meta_description] => Testprodcut45 test
+            [website_ids] => Array
+                (
+                    [0] => 1
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 26
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => 1be8srdDnKmhmEuP
+    [product] => Array
+        (
+            [name] => Pendrive
+            [sku] => Pendrive
+            [price] => 19
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 50
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 10
+                )
+
+            [description] => test
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => Pendrive
+            [meta_keyword] => Pendrive
+            [meta_description] => Pendrive test
+            [website_ids] => Array
+                (
+                    [0] => 1
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 50
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => 1be8srdDnKmhmEuP
+    [product] => Array
+        (
+            [name] => Hardisk
+            [sku] => Hardisk
+            [price] => 99
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 60
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 10
+                )
+
+            [description] => Test
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => Hardisk
+            [meta_keyword] => Hardisk
+            [meta_description] => Hardisk Test
+            [website_ids] => Array
+                (
+                    [0] => 2
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 60
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)
+Array
+(
+    [form_key] => 1be8srdDnKmhmEuP
+    [product] => Array
+        (
+            [name] => Monitor
+            [sku] => Monitor
+            [price] => 70
+            [tax_class_id] => 2
+            [quantity_and_stock_status] => Array
+                (
+                    [qty] => 50
+                    [is_in_stock] => 1
+                )
+
+            [product_has_weight] => 0
+            [category_ids] => Array
+                (
+                    [0] => 9
+                )
+
+            [description] => Tets
+            [status] => 1
+            [links_title] => Links
+            [links_purchased_separately] => 0
+            [samples_title] => Samples
+            [swatch_image] => 
+            [image] => 
+            [small_image] => 
+            [thumbnail] => 
+            [url_key] => 
+            [meta_title] => Monitor
+            [meta_keyword] => Monitor
+            [meta_description] => Monitor Tets
+            [website_ids] => Array
+                (
+                    [0] => 1
+                )
+
+            [special_price] => 
+            [special_from_date] => 
+            [special_to_date] => 
+            [cost] => 
+            [msrp] => 
+            [msrp_display_actual_price_type] => 0
+            [stock_data] => Array
+                (
+                    [use_config_manage_stock] => 1
+                    [original_inventory_qty] => 0
+                    [qty] => 50
+                    [min_qty] => 0
+                    [use_config_min_qty] => 1
+                    [min_sale_qty] => 1
+                    [use_config_min_sale_qty] => 1
+                    [max_sale_qty] => 10000
+                    [use_config_max_sale_qty] => 1
+                    [is_qty_decimal] => 0
+                    [is_decimal_divided] => 0
+                    [backorders] => 0
+                    [use_config_backorders] => 1
+                    [notify_stock_qty] => 1
+                    [use_config_notify_stock_qty] => 1
+                    [enable_qty_increments] => 0
+                    [use_config_enable_qty_increments] => 1
+                    [qty_increments] => 1
+                    [use_config_qty_increments] => 1
+                    [is_in_stock] => 1
+                )
+
+            [custom_design] => 
+            [custom_design_from] => 
+            [custom_design_to] => 
+            [custom_layout_update] => 
+            [page_layout] => 
+            [options_container] => container2
+            [short_description] => 
+            [visibility] => 4
+            [news_from_date] => 
+            [news_to_date] => 
+            [country_of_manufacture] => 
+            [use_config_gift_message_available] => 1
+        )
+
+    [affect_configurable_product_attributes] => 1
+    [new-variations-attribute-set-id] => 4
+)

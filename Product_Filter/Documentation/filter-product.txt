@@ -1,0 +1,57 @@
+
+
+We need below details for Product Geo location plugin to submit for marketing review:
+
+1. Product name (Title)
+Product Filter
+
+2. Product short description
+Filter products by geo location. Admin will need to setup latitude and longitude and radius in meters. 
+
+3. Product full description
+In the admin panel in extension settings page, admin can setup latitude and longitude as center point and can setup the radius in meters. In the frontend, system will check user geo location and will find out if the user falls within that radius then product add to cart button will be shown. If user does not fall within that radius then a message will be shown in place of add to cart button. The message which would be shown in place of "Add to cart" button is custom one and can be managed in backend admin panel on extension settings page.
+
+
+4. Product thumbnail image (250*250)
+product_thumbnail_image.png
+
+5. Product other images
+i) screen_1.png, ii) screen_2.png, iii) screen_3.png
+
+6. Youtube video link (optional)
+
+7. Browser compatibility (optional)
+The extension functionality is independent of browser thus working with all major browsers.
+
+8. Documentation
+In the admin panel in extension settings page, admin can setup latitude and longitude as center point and can setup the radius in meters. In the frontend, system will check user geo location and will find out if the user falls within that radius then product add to cart button will be shown. 
+If user does not fall within that radius then a message will be shown in place of add to cart button. The message which would be shown in place of "Add to cart" button is custom one and can be managed in backend admin panel on extension settings page.
+
+
+9. Release Notes ( Overview of the product release. Add any notes you may have for this release.)
+Version number: 0.0.1 
+
+
+10. Product price
+
+
+11. Select License Type: (choose any on in below)
+
+
+Academic Free License 3.0 (AFL)
+https://opensource.org/licenses/AFL-3.0
+Apache License 2.0
+http://www.apache.org/licenses/LICENSE-2.0
+BSD 2-Clause License
+https://opensource.org/licenses/BSD-2-Clause
+GNU General Public License 3.0 (GPL-3.0)
+https://www.gnu.org/licenses/gpl-3.0.en.html
+GNU Lesser General Public License 3.0 (LGPL-3.0)
+https://www.gnu.org/licenses/lgpl-3.0.en.html
+MIT License (MIT)
+https://opensource.org/licenses/MIT
+Mozilla Public License 1.1 (MPL-1.1)
+https://www.mozilla.org/en-US/MPL/1.1/
+Open Software License 3.0 (OSL-3.0)
+https://opensource.org/licenses/OSL-3.0
+Custom License

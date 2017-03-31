@@ -1,0 +1,17 @@
+<?php 
+    $result = $this->helper('Technologymindz\ProductFilter\Helper\Data')->isAvailable(); 
+    $errorMesasge = $this->helper('Technologymindz\ProductFilter\Helper\Data')->getErrorMesasge(); 
+?>
+<?php if ( !$result  ){
+ ?>
+<style type="text/css">
+    /*.product-info-main{display: none;}*/
+    .product-add-form{display: none;}
+    .product-social-links{display: none;}   
+    .product-info-stock-sku .stock{display: none;}  
+    
+</style>
+<div style="color: red; font-weight:600">
+    <p><?php echo $errorMesasge; ?></p>
+</div>
+<?php } ?>

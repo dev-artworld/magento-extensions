@@ -1,0 +1,150 @@
+<?php
+/**
+ *
+ * Copyright © 2015 Customsellcommerce. All rights reserved.
+ */
+namespace Customsell\Sync\Controller\Adminhtml\CustomsellBackend;
+
+use Magento\Backend\App\Action;
+use Magento\Backend\App\Action\Context;
+use Magento\Framework\View\Result\PageFactory;
+use Customsell\Sync\Model\Config\Source\Categories;
+//use \Customsell\Sync\Helper\Data;
+use \Customsell\Sync\ApiInterface\CustomsellApi;
+
+class Orders extends \Magento\Backend\App\Action
+{
+
+    //protected $helper;
+    protected $repository;
+    protected $categories;
+
+    public $_objectManager;
+
+    /**
+     * @var PageFactory
+     */
+    protected $resultPageFactory;
+
+    public $_scopeConfig;
+
+    /**
+     * @param Context $context
+     * @param PageFactory $resultPageFactory
+     */
+    public function __construct(
+        Context $context,
+        PageFactory $resultPageFactory,
+        Categories $categories        
+    ) {
+        
+        $this->categories = $categories;
+        
+        parent::__construct($context);
+        $this->resultPageFactory = $resultPageFactory;
+
+        $this->_objectManager = \Magento\Framework\App\ObjectManager::getInstance();
+  
+    }
+
+    /**
+     * Check the permission to run it
+     *
+     * @return bool
+     */
+   /*  protected function _isAllowed()
+    {
+        return $this->_authorization->isAllowed('Magento_Cms::page');
+    } */
+
+    /**
+     * Product action
+     *
+     * @return \Magento\Backend\Model\View\Result\Page
+     */
+
+    public function apiKey(){
+
+        $resource = $this->_objectManager->create('\Magento\Framework\App\ResourceConnection');
+        
+        $connection = $resource->getConnection(\Magento\Framework\App\ResourceConnection::DEFAULT_CONNECTION);
+  
+        $values = $connection->fetchAll("select * from `core_config_data` where `path` = 'settings/settings/apikey'");
+
+        return $values[0]['value'];
+
+    }
+
+    public function ping(){
+        
+        $apiKey     = $this->apiKey();
+
+        /* validate API Url */
+        $url        = 'https://api.customsellsystems.com/api/validate/';
+        $parameters = array( 'api_key' => $apiKey );        
+        
+        $customsellApi = new CustomsellApi;
+        $result = $customsellApi->exec( $apiKey, $url, $parameters );
+
+        return $result->customsell_url;
+    }
+
+    public function updateOrders( $baseUrl, $parameters ) {
+
+        $apiKey = $this->apiKey();
+        $url    = $baseUrl.'/api/order/';
+
+        $parameters['client_reference'] = 'customsell_magento_extension';
+        $parameters['api_version']      = '0.04';
+
+        $customsellApi = new CustomsellApi;
+        
+        $result = $customsellApi->exec( $apiKey, $url, $parameters );
+
+        return $result;
+    }
+
+    public function execute()
+    {
+        
+        $resultPage = $this->resultPageFactory->create();
+        //$resultPage->setActiveMenu('Customsell_Sync::menu_1');
+        $resultPage->getConfig()->getTitle()->prepend(__('Customsell Sync'));
+
+        $objectManager =  \Magento\Framework\App\ObjectManager::getInstance();
+
+        $orderDatamodel = $objectManager->get('Magento\Sales\Model\Order')->getCollection();
+
+          foreach($orderDatamodel as $orderDatamodel1){
+
+                $order_items = array("product_id"=> "1",
+                          "product_quantity"=> "2",
+                          "line_total"=>"123");
+
+                $temp                               = array();
+                $temp['order_reference']            = $orderDatamodel1->getData("entity_id");
+                $temp['order_time']                 = $orderDatamodel1->getData("created_at");
+                $temp['order_status']               = $orderDatamodel1->getData("status");
+                $temp['order_total']                = $orderDatamodel1->getData("grand_total");
+                $temp['order_email']                = $orderDatamodel1->getData("customer_email");
+                $temp['items']                      = $order_items;
+                $temp['order_view_url']             = "test";
+                $temp['guest_order']                = $orderDatamodel1->getData("customer_is_guest");
+              
+                $orderItems[] = $temp;
+
+                //$order = $objectManager->create('Magento\Sales\Model\Order')->load($orderDatamodel1->getData("entity_id"));
+                //$orderItems = $order->getAllItems();
+
+                //print_r($orderItems);
+
+          }
+        $postData['orders'] = $orderItems;
+        $customsellRun  = $this->ping();
+        // $result = $this->helper->updateCustomers($customsellRun,$postData);
+        $result = $this->updateOrders($customsellRun,$postData);
+
+        file_put_contents(dirname(__FILE__)."/controllerOrder3.log", print_r($orderItems, true) );
+    }
+    
+}

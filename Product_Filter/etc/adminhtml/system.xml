@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../Magento/Backend/etc/system_file.xsd">
+    <system>
+        <tab id="TechnologymindzProductFilter" translate="label" sortOrder="700">
+            <label>TM Product Filter</label>
+        </tab>
+        
+        <section id="TechnologymindzProductFilter" translate="label" sortOrder="500" showInDefault="1" showInWebsite="1" showInStore="1">
+            <class>separator-top</class>
+            <label>Configuration</label>
+            <tab>TechnologymindzProductFilter</tab>
+            <resource>Technologymindz_ProductFilter::config</resource>
+            <group id="store_radius_grp" translate="label" type="text" sortOrder="10" showInDefault="1" showInWebsite="0" showInStore="0">
+                <label>Product Radius</label>
+                <field id="store_radius" translate="label" type="text" sortOrder="1" showInDefault="1" showInWebsite="0" showInStore="0">
+                    <label>Enter Radius(in meters)</label>
+                </field>
+            </group>           
+
+             <group id="store_lat_grp" translate="label" type="text" sortOrder="11" showInDefault="1" showInWebsite="0" showInStore="0">
+                <label>Enter Store Latitude</label>
+                <field id="store_lat" translate="label" type="text" sortOrder="1" showInDefault="1" showInWebsite="0" showInStore="0">
+                    <label>Enter Store Latitude</label>
+                </field>
+            </group>           
+
+            <group id="store_lon_grp" translate="label" type="text" sortOrder="12" showInDefault="1" showInWebsite="0" showInStore="0">
+                <label>Enter Store Longitude</label>
+                <field id="store_lon" translate="label" type="text" sortOrder="1" showInDefault="1" showInWebsite="0" showInStore="0">
+                    <label>Enter Store Longitude</label>
+                </field>
+            </group>
+
+            <group id="store_err_grp" translate="label" type="text" sortOrder="13" showInDefault="1" showInWebsite="0" showInStore="0">
+                <label>Enter Error Message</label>
+                <field id="store_err" translate="label" type="text" sortOrder="1" showInDefault="1" showInWebsite="0" showInStore="0">
+                    <label>Enter Error Message</label>
+                </field>
+            </group>           
+        </section>
+    </system>
+</config>

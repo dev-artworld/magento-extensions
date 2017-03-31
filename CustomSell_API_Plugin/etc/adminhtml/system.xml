@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
+	<system>
+		<tab id="customsell" sortOrder="999" translate="label">
+			<label>customsell</label>
+		</tab>
+		<section id="settings" showInDefault="1" showInStore="1" showInWebsite="1" sortOrder="10" translate="label">
+			<label>Settings</label>
+			<tab>customsell</tab>
+			<resource>Customsell_Sync::config_customsell_sync</resource>
+			
+			<group id="settings" showInDefault="0" showInStore="1" showInWebsite="0" sortOrder="0" translate="label">
+				<label>Settings</label>
+				<field id="apikey" showInDefault="0" showInStore="1" showInWebsite="0" sortOrder="1" translate="label" type="text">
+					<label>API Key</label>
+					<comment>Your API key, as provided by CustomSell.</comment>
+				</field>
+				 <field id="enable_frontend" translate="label comment" type="select" sortOrder="0"  showInDefault="0" showInWebsite="0" showInStore="1">
+                    <label>Enable</label>
+                    <comment>Say this to "yes" to enable Customsell for this store.</comment>
+                    <source_model>Magento\Config\Model\Config\Source\Yesno</source_model>
+                </field>
+                <field id="customer_attributes" translate="label" sortOrder="2" type="multiselect" showInDefault="0" showInWebsite="0" showInStore="1">
+                    <label>Customer Attributes</label>
+                    <comment>Please select the customer attributes you would like to sync with CustomSell</comment>
+                    <source_model>Customsell\Sync\Model\Config\Source\Customers</source_model>
+                    
+                    <depends><field id="connected">1</field></depends>
+                </field>
+			</group>
+
+			<group id="enable_customsell" showInDefault="1" showInStore="0" showInWebsite="0" sortOrder="1" translate="label">
+				<label>How To Enable Customsell</label>
+				<comment><![CDATA[
+                    <p>You must select a store from the "Current Configuration Scope" menu at the top left of this screen before enabling Customsell.</p>
+                ]]></comment>
+				<field id="customsell" type="hidden" showInDefault="1" showInStore="0" showInWebsite="0" sortOrder="1" translate="label comment" >
+				</field>
+			</group>
+
+			<group id="extension_support" showInDefault="1" showInStore="0" showInWebsite="0" sortOrder="2" translate="label">
+				<label>Extension Support</label>
+				<comment><![CDATA[
+                    <p>Please log into your CustomSell account for support.</p>
+                ]]></comment>
+				<field id="support" type="hidden" showInDefault="1" showInStore="0" showInWebsite="0" sortOrder="1" translate="label comment" >
+				</field>
+			</group>
+
+               
+            
+		</section>
+	</system>
+</config>

@@ -1,0 +1,37 @@
+stdClass Object
+(
+    [messages] => Array
+        (
+            [0] => Category successfully imported.
+            [1] => Category successfully imported.
+            [2] => Category successfully imported.
+            [3] => Category successfully imported.
+            [4] => Category successfully imported.
+            [5] => Category successfully imported.
+            [6] => Category successfully imported.
+            [7] => Category successfully imported.
+            [8] => Category successfully imported.
+            [9] => Category successfully imported.
+            [10] => Category successfully imported.
+            [11] => Category successfully imported.
+            [12] => Category successfully imported.
+            [13] => Category successfully imported.
+            [14] => Category successfully imported.
+            [15] => Category successfully imported.
+            [16] => Category successfully imported.
+            [17] => Category successfully imported.
+            [18] => Category successfully imported.
+            [19] => Category successfully imported.
+            [20] => Category successfully imported.
+            [21] => Category successfully imported.
+            [22] => Category successfully imported.
+            [23] => Category successfully imported.
+            [24] => Category successfully imported.
+            [25] => Category successfully imported.
+            [26] => Category successfully imported.
+            [27] => Category successfully imported.
+        )
+
+    [result] => success
+    [response_timestamp] => 1488521315
+)
